@@ -150,8 +150,6 @@ Based on the analysis:
 
 # 📷 Dashboard Preview
 
-> Add your Power BI / Excel dashboard screenshot below.
-
 ![Dashboard Preview](Dashboard.jpg)
 
 ---
