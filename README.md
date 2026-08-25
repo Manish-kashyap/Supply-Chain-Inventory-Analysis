@@ -152,7 +152,7 @@ Based on the analysis:
 
 > Add your Power BI / Excel dashboard screenshot below.
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboard.jpg)
 
 ---
 
